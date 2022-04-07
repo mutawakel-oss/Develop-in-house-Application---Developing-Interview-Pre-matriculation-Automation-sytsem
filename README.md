@@ -4,14 +4,14 @@ I have worked as Data Analyst & Data Engineer in this project.
 To automate the selection processes of admission applicants.
 # Project objectives:
 1. Informing the applicant about his application status: 
-2. o Application Submitted 
-3. o Documents Need to be Submitted o Invited for Interview o Selected 
-4. Informing the applicant about interview details: 
-5. o Date of the interview. 
-6. o Location of the Interview. 
-7. Informing the applicant about his KSAU-HS credentials once selected by DAR:
-8. o Username 
-9. o Password
+   o Application Submitted 
+   o Documents Need to be Submitted o Invited for Interview o Selected 
+2. Informing the applicant about interview details: 
+   o Date of the interview. 
+   o Location of the Interview. 
+3. Informing the applicant about his KSAU-HS credentials once selected by DAR:
+   o Username 
+   o Password
 # Project High Level Scope
  This system will serve the following applicants: 
 1. All Stream II Admission Applicants. 
