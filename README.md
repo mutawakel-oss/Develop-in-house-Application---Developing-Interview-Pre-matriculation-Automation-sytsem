@@ -19,10 +19,14 @@ To automate the selection processes of admission applicants.
    o Username 
    
    o Password
-# Project High Level Scope
- This system will serve the following applicants: 
-1. All Stream II Admission Applicants. 
-2. All Master Admission Applicants. 
-3. Stream I Admission Applicants who use SiS admission System (Jeddah & Al-Ahsa).
-# Project Schedule:
-This project took 8 months and helped to admit 90,000 applicants since launched in 2019.
+# System Sample Screenshots
+![Sample Screenshot](https://github.com/mutawakel-oss/Develop-in-house-Application---Developing-Interview-Pre-matriculation-Automation-sytsem/blob/main/Screenshots/1.png)
+
+
+![Sample Screenshot](https://github.com/mutawakel-oss/Develop-in-house-Application---Developing-Interview-Pre-matriculation-Automation-sytsem/blob/main/Screenshots/2.png)
+
+
+![Sample Screenshot](https://github.com/mutawakel-oss/Develop-in-house-Application---Developing-Interview-Pre-matriculation-Automation-sytsem/blob/main/Screenshots/3.png)
+
+
+![Sample Screenshot](https://github.com/mutawakel-oss/Develop-in-house-Application---Developing-Interview-Pre-matriculation-Automation-sytsem/blob/main/Screenshots/4.png)
